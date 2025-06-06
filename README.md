@@ -5,7 +5,7 @@ I built and tested the model entirely in Google Colab using synthetic (but reali
 
 ---
 
-## 📊 Input Features
+## Input Features
 
 The model is trained using the following features:
 - Height (in centimeters)

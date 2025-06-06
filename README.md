@@ -1,4 +1,4 @@
-# Athlete Classification Project 🧠💪
+# Athlete Classification Project
 
 This project explores how we can use basic health and lifestyle data to predict whether a person is likely to be an athlete.  
 I built and tested the model entirely in Google Colab using synthetic (but realistic) data for 200 individuals.
@@ -18,7 +18,7 @@ The model is trained using the following features:
 
 ---
 
-## 🤖 Machine Learning Model
+## Machine Learning Model
 
 - **Type:** Logistic Regression  
 - **Library:** Scikit-learn (`sklearn`)  
@@ -28,7 +28,7 @@ The model is trained using the following features:
 
 ---
 
-## 🔬 What This Project Demonstrates
+## What This Project Demonstrates
 
 - End-to-end pipeline: data generation → labeling → training → evaluation
 - Feature selection and labeling logic based on health & fitness reasoning
@@ -37,13 +37,13 @@ The model is trained using the following features:
 
 ---
 
-## 📁 Files
+## Files
 
 - `athlete_classifier_project.ipynb` — Complete notebook with code, comments, and evaluation output
 
 ---
 
-## 👤 Author
+## Author
 
 Created by **Omid Akbarian**  
 Google Colab | Python | Machine Learning Foundations
